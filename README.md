@@ -1,18 +1,60 @@
-<h1 align="center">Hi , I'm Cinthia Ramos Suyon <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hola, soy Cinthia Ramos Suyon <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
- <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?size=30&duration=5001&color=F75E94&background=FF31B700&lines=Full+Stack+Web+Developer"></a>
+ <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?size=30&duration=5001&color=F75E94&background=FF31B700&lines=Desarrolladora+Web+Full+Stack"></a>
 </p>
-<!--
-**CinthiaRS24/CinthiaRS24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<h4>Bienvenid@ a mi perfil! Soy Cinthia, desarrolladora Web Full Stack. Me considero una persona entusiasta y responsable, dispuesta a asumir nuevos retos y a seguir aprendiendo nuevas habilidades. Me encanta el mundo tecnológico, intercambiar ideas, difundir conocimientos y positividad.</h4>
+ 
+- 🔭 Actualmente estoy trabajando en proyectos Freelance
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👯 Busco colaborar en proyectos Open Source
+
+- 💬 Contáctame para nuevas oportunidades laborales como desarrolladora Web Full Stack. 
+
+<br>
+<br>
+
+<h4>Lenguajes de programación</h4>
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+</p>
+<h4>Desarrollo Frontend</h4>
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+</p>
+<h4>Desarrollo Backend</h4>
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
+  <img src="https://img.shields.io/badge/PostgreSQL-005C84?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
+</p>
+<h4>Herramientas y Tecnologías</h4>
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white">
+</p>
+
+<br/>
+<h2> 🤝🏻 Connect with Me </h2>
+
+<p>
+ <a target="_blank"href="https://www.linkedin.com/in/cinthia-stephany-ramos-suyon/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:cinthia24027@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />    </a>&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+<br/>
+<h2> 📊 Github Stats  </h2>
+
+<table>
+ <tr>
+  <td>
+   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=CinthiaRS24&show_icons=true&locale=en&theme=radical" alt="CinthiaRS24" /></p>
+  </td>
+  <td>
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=CinthiaRS24&show_icons=true&locale=en&layout=compact&theme=radical" alt="CinthiaRS24" /></p>
+  </td>
+ </tr>
+</table>
